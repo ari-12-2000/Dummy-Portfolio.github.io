@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Dummy-Portfolio.github.io/static/css/main.df6a7eab.css",
+    "main.js": "/Dummy-Portfolio.github.io/static/js/main.f6ba806c.js",
+    "static/js/111.ad1cef69.chunk.js": "/Dummy-Portfolio.github.io/static/js/111.ad1cef69.chunk.js",
+    "static/media/photo4.jpg": "/Dummy-Portfolio.github.io/static/media/photo4.4c7907d15dd9ea0be97c.jpg",
+    "static/media/photo2.jpg": "/Dummy-Portfolio.github.io/static/media/photo2.7d510936625768642967.jpg",
+    "static/media/photo3.jpg": "/Dummy-Portfolio.github.io/static/media/photo3.9a32dfac129b20149889.jpg",
+    "static/media/photo1.jpg": "/Dummy-Portfolio.github.io/static/media/photo1.76b22eb753ddc88e0626.jpg",
+    "index.html": "/Dummy-Portfolio.github.io/index.html",
+    "main.df6a7eab.css.map": "/Dummy-Portfolio.github.io/static/css/main.df6a7eab.css.map",
+    "main.f6ba806c.js.map": "/Dummy-Portfolio.github.io/static/js/main.f6ba806c.js.map",
+    "111.ad1cef69.chunk.js.map": "/Dummy-Portfolio.github.io/static/js/111.ad1cef69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6a7eab.css",
+    "static/js/main.f6ba806c.js"
+  ]
+}
